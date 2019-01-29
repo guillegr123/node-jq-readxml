@@ -1,0 +1,16 @@
+{
+  "name": "node-jq-readxml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "leerHtml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jsdom": "^13.2.0",
+    "request-promise": "^4.2.2"
+  }
+}
